@@ -10,4 +10,4 @@ Or it can be run using a directory, only including the image files found:
 
     python images2pdf.py name --dir path/to/some/directory
 
-The result is a pdf with the name 'name' in the current working directory.
+The result is a pdf in the current working directory.
